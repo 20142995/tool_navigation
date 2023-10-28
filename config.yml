@@ -1,0 +1,14 @@
+窗口设置:
+    宽: 800
+    高: 500
+    每行按钮数: 4
+    按钮宽度: 20
+    主题: SystemDefaultForReal
+    标题: 安全工具包
+环境变量设置:
+    - environment
+工具配置:
+    杂项辅助:
+        CyberChef:
+            启动目录: tool\CyberChef_v9.21.0_zh_cn
+            启动文件: CyberChef_v9.21.0_zh_cn.html
